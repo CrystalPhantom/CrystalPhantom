@@ -1,1 +1,5 @@
-![](https://github.com/CrystalPhantom/CrystalPhantom/blob/53c7bc157b794c5c0980f287dfb971551e5924f8/assets/Frame%201.png)
+![](https://github.com/CrystalPhantom/CrystalPhantom/blob/7b5e59dca21709e60972eec2f93367f6729e96e4/assets/Frame%201%20(1).png)
+
+## :boom: Welcome to the realm of phantoms!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
