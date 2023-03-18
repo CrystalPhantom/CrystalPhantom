@@ -1,6 +1,4 @@
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk0YzgzNTZlNzg0ZTRhYjU0OTkzOWE3Y2E4MThkZmIzZDljYWY5ZCZjdD1n/VnhqaEcxrjP1Nhy97s/giphy.gif"/>
-</div>
+![](https://github.com/CrystalPhantom/CrystalPhantom/blob/27999c22d6ff5caf82b4e84bfe8a08e9ad9d97a1/assets/Frame%201%20(1).jpg)
 ## :boom: Welcome to the realm of phantoms! ##
  :fist: Have a good time guys
 
