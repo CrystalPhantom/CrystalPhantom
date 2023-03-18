@@ -1,7 +1,6 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM5OWZjOGY4ZTZhYjZlZTIwOGVkYTA5MWY5YjU4N2RkNDRmMTFkYSZjdD1n/XHU8gUsOSTGbXWAJK8/giphy.gif"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk0YzgzNTZlNzg0ZTRhYjU0OTkzOWE3Y2E4MThkZmIzZDljYWY5ZCZjdD1n/VnhqaEcxrjP1Nhy97s/giphy.gif"/>
 </div>
-![](https://img.shields.io/github/gist/stars/CrystalPhantom?color=red%20&label=stars&logo=GitHub&style=flat-square)
 ## :boom: Welcome to the realm of phantoms! ##
  :fist: Have a good time guys
 
