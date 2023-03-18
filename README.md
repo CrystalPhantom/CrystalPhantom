@@ -1,9 +1,13 @@
 ![](https://github.com/CrystalPhantom/CrystalPhantom/blob/7b5e59dca21709e60972eec2f93367f6729e96e4/assets/Frame%201%20(1).png)
+![](https://img.shields.io/aur/last-modified/Activ?label=active&logoColor=green)
 ## :boom: Welcome to the realm of phantoms!
  :fist: Have a good time guys
- 
- ---
 
+## Languages
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF4500)
+![Rust](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=HTML5&logoColor=FF7F50)
+![Rust](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=CSS3&logoColor=4169E1)
 
 
 ## Follow me :point_down:
