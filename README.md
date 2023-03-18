@@ -1,4 +1,6 @@
-![](https://github.com/CrystalPhantom/CrystalPhantom/blob/dbb1dd644b6b500b260574d0945142596cb13d2e/assets/Frame%201%20(1).jpg)
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM5OWZjOGY4ZTZhYjZlZTIwOGVkYTA5MWY5YjU4N2RkNDRmMTFkYSZjdD1n/XHU8gUsOSTGbXWAJK8/giphy.gif"/>
+</div>
 ![](https://img.shields.io/github/gist/stars/CrystalPhantom?color=red%20&label=stars&logo=GitHub&style=flat-square)
 ## :boom: Welcome to the realm of phantoms! ##
  :fist: Have a good time guys
