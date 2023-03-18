@@ -17,5 +17,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)]([https://github.com/ryo-ma/github-profile-trophy](https://instagram.com/aduanite_xrustal?igshid=ZDdkNTZiNTM=))
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+
 
