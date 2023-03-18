@@ -6,8 +6,9 @@
 ## Languages
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF4500)
-![Rust](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=HTML5&logoColor=FF7F50)
-![Rust](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=CSS3&logoColor=4169E1)
+![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=HTML5&logoColor=FF7F50)
+![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=CSS3&logoColor=4169E1)
+![sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&logoColor=E0FFFF)
 
 
 ## Follow me :point_down:
