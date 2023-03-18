@@ -1,4 +1,4 @@
-![](https://github.com/CrystalPhantom/CrystalPhantom/blob/7b5e59dca21709e60972eec2f93367f6729e96e4/assets/Frame%201%20(1).png)
+![](https://github.com/CrystalPhantom/CrystalPhantom/blob/04fb06b70801ea7025439729c2025358666495ea/assets/Frame%201.jpg)
 ![](https://img.shields.io/aur/last-modified/Activ?label=active&logoColor=green)
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
 ## :boom: Welcome to the realm of phantoms!
