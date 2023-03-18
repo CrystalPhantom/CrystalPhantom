@@ -5,7 +5,7 @@ Have a good time guys
 
 
 
-### Follow me 
+### Follow me :point_down:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=6E71DB)](https://www.instagram.com/alexeyshpavda)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=6E71DB)](https://vk.com/aduanite)
 
