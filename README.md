@@ -3,7 +3,7 @@
 ## :boom: Welcome to the realm of phantoms! ##
  :fist: Here will appear the latest news of the development of my profile, as well as my projects
 
-## Languages
+## Languages :star: 
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=FF4500)
 ![html](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=HTML5&logoColor=FF7F50)
