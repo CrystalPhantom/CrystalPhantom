@@ -20,8 +20,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)]([https://github.com/ryo-ma/github-profile-trophy](https://instagram.com/aduanite_xrustal?igshid=ZDdkNTZiNTM=))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystalPhantom&show_icons=true&theme=radical) <div id="header"><img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystalPhantom&show_icons=true&theme=radical)
 
 
 
