@@ -1,4 +1,7 @@
 ![](https://github.com/CrystalPhantom/CrystalPhantom/blob/27999c22d6ff5caf82b4e84bfe8a08e9ad9d97a1/assets/Frame%201%20(1).jpg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="200"/>
+</div>
 ## :boom: Welcome to the realm of phantoms! ##
  :fist: Have a good time guys
 
@@ -17,8 +20,7 @@
 
 ---
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)]([https://github.com/ryo-ma/github-profile-trophy](https://instagram.com/aduanite_xrustal?igshid=ZDdkNTZiNTM=))
+![center](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystalPhantom&show_icons=true&theme=radical)
 
