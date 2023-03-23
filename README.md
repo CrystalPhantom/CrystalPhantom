@@ -22,7 +22,6 @@
 
 ---
 
-![center](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystalPhantom&show_icons=true&theme=radical)<div id="hear" align="right"/>
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="50"/>
