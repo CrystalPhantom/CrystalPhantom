@@ -20,10 +20,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=6E71DB)]()
 [![Facebook](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=6E71DB)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJqWglSQgZjrJnnfggCXmLFkLbQhLzBFLttbqlcMzScSCjfjQnBKnswKKXPqDnMfzSQqTrg)
 
----
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystalPhantom&show_icons=true&theme=radical)<div id="hear" align="right"/>
+<div id="hear" align="right"/>
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="50"/>
 </div>
 
